@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Yuzhou Li's Lab.
+This is the front page of Yuzhou Li's personal academic pages.
 
 Immunological basis of interaction between periodontitis and systemic diseases
 ======
