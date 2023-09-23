@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Yuzhou Li's personal academic pages.
+I'm a well-trained prosthodontist specialized in full-mouth rehabilitation and complexed aesthetic treatment collaborated with prosthodontic interventions and periodontal surgeries. I also diagnose and treat dental sleep problems such as bruxism, abnormal oral parafunction, corrosion, and dental breathe problems. Now I'm also beginning to be trained on diagnosis and treatment of temporomandibular disorder under the help of my talented colleagues. Currently I'm participating in a charitable projects that help dentists in remote rural area (Wansheng District, Chongqing, China) to learn and practice porcelain veneer therapy and gingivoplasty for one year. I'll get back to routine clinical practice in urban Yubei District, Chongqing, China in Nov 1st, 2023.
 
 Immunological basis of interaction between periodontitis and systemic diseases
 ======
