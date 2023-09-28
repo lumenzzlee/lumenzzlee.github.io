@@ -18,7 +18,7 @@ Immunological basis of interaction between periodontitis and systemic diseases
 ------
 Periodontal diseases, including gingivitis, periodontitis, and also peri-implantitis, are tightly related with many systemic diseases. In my lab, we concentrated on how two kinds of systemic diseases, sleep disorders and diabetes, influence on our periodontal health. We're studying the interaction by a combination of epidemic investigations, clinical laboratory tests, and experimental molecular, cellular, and animal studies. The key points of our studies are how systemic diseases reshape the innate immunological response and lead to higher periodontal pathogenicity. We're excited to explore potential intermediate factors as novel biomarkers or therapeutic targets towards periodontal diseases comorbid with these two systemic conditions.
 
-Natural pharmaceutical and complemental therapies towards periodontitis
+Natural pharmaceutical and complemental therapies for periodontitis
 ------
 
 Automated diagnosis and prognosis for periodontal diseases
