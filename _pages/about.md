@@ -9,16 +9,20 @@ redirect_from:
 ---
 
 I'm a well-trained prosthodontist specialized in prosthodontics collaborated with prosthodontic and periodontal interventions. I also treat dental sleep problems such as bruxism, abnormal oral parafunction, corrosion, and dental breathe problems. I'm beginning to work on temporomandibular disorder under the help of my talented colleagues. Currently I'm participating in a charitable project that help dentists in remote rural area for one year.
-I serve as a clinical skill tutor for dental students, and participate in several postguraduate courses. My basic research mainly works on periodontology and dental sleep problems. I'm a cat guy raising two cute cats named Diandian (which means spot-spot) and Didi (which means drop-drop). I'm proud of saving didi from FIP by seeking and practicing for anti-viral treatment in 2018.
+I serve as a clinical skill tutor for dental students, and participate in several postguraduate courses. My basic research mainly works on periodontology and dental sleep problems. I'm a cat guy raising two cute cats named Diandian (which means spot-spot) and Didi (which means drop-drop).
 
 Research Interests
 ======
 
 Immunological basis of interaction between periodontitis and systemic diseases
 ------
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Periodontal diseases, including gingivitis, periodontitis, and also peri-implantitis, are tightly related with many systemic diseases. In my lab, we concentrated on how two kinds of systemic diseases, sleep disorders and diabetes, influence on our periodontal health. We're studying the interaction by a combination of epidemic investigations, clinical laboratory tests, and experimental molecular, cellular, and animal studies. The key points of our studies are how systemic diseases reshape the innate immunological response and lead to higher periodontal pathogenicity. We're excited to explore potential intermediate factors as novel biomarkers or therapeutic targets towards periodontal diseases comorbid with these two systemic conditions.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Natural pharmaceutical and complemental therapies towards periodontitis
+------
+
+Automated diagnosis and prognosis for periodontal diseases
+------
 
 Getting started
 ======
