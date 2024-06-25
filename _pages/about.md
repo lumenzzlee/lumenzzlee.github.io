@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a well-trained prosthodontist specialized in prosthodontics collaborated with prosthodontic and periodontal interventions. I also treat dental sleep problems such as bruxism, abnormal oral parafunction, corrosion, and dental breathe problems. I'm beginning to work on temporomandibular disorder under the help of my talented colleagues. Currently I'm participating in a charitable project that help dentists in remote rural area for one year.
-I serve as a clinical skill tutor for dental students, and participate in several postguraduate courses. My basic research mainly works on periodontology and dental sleep problems. I'm a cat guy raising two cute cats named Diandian (which means spot-spot) and Didi (which means drop-drop).
+I'm a well-trained prosthodontist specialized in prosthodontics collaborated with prosthodontic and periodontal interventions.
+I also treat dental sleep problems such as bruxism, abnormal oral parafunction, corrosion, and dental breathe problems. I'm beginning to work on temporomandibular disorder under the help of my talented colleagues. I'm participated in a charitable project that help dentists in remote rural area during 2022-2023.
+I serve as a clinical skill tutor for dental students, and participate in several postguraduate courses. 
+My basic research mainly works on periodontology and dental sleep problems.
 
 Research Interests
 ======
